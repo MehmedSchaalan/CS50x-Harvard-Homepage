@@ -1,0 +1,10 @@
+#name {
+    font-family: monospace;
+    font-size: 80px;
+    text-emphasis: underline;
+    color: blue;
+}
+
+.about {
+    font-family: Helvetica, sans-serif;
+}
